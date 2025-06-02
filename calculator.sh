@@ -18,7 +18,11 @@ Z=x*y
 # Precentage Function
 z=x/y%
 
+
 #calc
 
 #cherry
+
+
+# merge
 
