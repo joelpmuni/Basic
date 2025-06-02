@@ -1,5 +1,6 @@
 # !/bin/bash
 
+# Main File
 # Addition Function
 
 x=1+2
@@ -10,12 +11,10 @@ z=x-y
 
 # Division Function 
 z=x/y
-<<<<<<< HEAD
-=======
 
 # Multiplication Function
 Z=x*y
 
 # Precentage Function
 z=x/y%
->>>>>>> 4d5a200 (cherry)
+
