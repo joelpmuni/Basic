@@ -18,28 +18,3 @@ Z=x*y
 # Precentage Function
 z=x/y%
 
-
-#calc
-
-#rebase1
-
-
-#rebase
-#rebase1
-#rebase2
-#rebase3
-
-
-#calc
-
-
-#cherry
-
-# merge
-
-#rebase
-
-#rebase1
-
-
-
