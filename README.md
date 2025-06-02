@@ -1,5 +1,4 @@
-# Basic
-Initial setup for Git
+# Basic - Initial setup for Git and GitHub.
 Step-1: Download Git for Deskrop link: https://git-scm.com/downloads.
 Step-2: Install Git Standalone Installer - Git for Windows/x64 Setup.
 Step-3: It will install Git GUI, Git Bash and Git CMD.
