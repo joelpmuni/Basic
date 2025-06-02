@@ -1,5 +1,6 @@
 # !/bin/bash
 
+# Main File
 # Addition Function
 
 x=1+2
@@ -17,7 +18,22 @@ Z=x*y
 # Precentage Function
 z=x/y%
 
+
 #rebase
 #rebase1
 #rebase2
 #rebase3
+
+
+#calc
+
+
+#cherry
+
+# merge
+
+#rebase
+
+#rebase1
+
+
