@@ -17,4 +17,4 @@ Z=x*y
 # Precentage Function
 z=x/y%
 
-#cherry
+#calc
