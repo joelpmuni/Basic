@@ -10,3 +10,7 @@ z=x-y
 
 # Division Function 
 z=x/y
+
+# Multiplication Function
+Z=x*y
+
