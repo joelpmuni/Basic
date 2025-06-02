@@ -14,3 +14,5 @@ z=x/y
 # Multiplication Function
 Z=x*y
 
+# Precentage Function
+z=x/y%
